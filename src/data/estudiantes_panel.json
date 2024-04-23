@@ -1,0 +1,43 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "name": "usuario",
+        "url": "../assets/logoColegio.png"
+      },
+      {
+        "id": 2,
+        "name": "inscripciones",
+        "url": "./assets/inscripciones.png"
+      },
+      {
+        "id": 3,
+        "name": "calificaciones",
+        "url": "./assets/calificaciones.png"
+      },
+      {
+        "id": 4,
+        "name": "documentos",
+        "url": "./assets/documentos.png"
+      }
+    ],
+    "texts": [
+      {
+        "id": 1,
+        "name": "Información Personal"
+      },
+      {
+        "id": 2,
+        "name": "Inscripciones"
+      },
+      {
+        "id": 3,
+        "name": "Calificaciones"
+      },
+      {
+        "id": 4,
+        "name": "Documentos"
+      }
+    ]
+  }
+  

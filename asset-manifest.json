@@ -1,16 +1,20 @@
 {
   "files": {
     "main.css": "/proy163/static/css/main.e6c13ad2.css",
-    "main.js": "/proy163/static/js/main.b912c7ae.js",
+    "main.js": "/proy163/static/js/main.57939908.js",
     "static/js/488.7a34e2c9.chunk.js": "/proy163/static/js/488.7a34e2c9.chunk.js",
+    "static/media/imagenUser.jpg": "/proy163/static/media/imagenUser.1e6c453d5d157ca22249.jpg",
+    "static/media/logoColegio.png": "/proy163/static/media/logoColegio.d606ff16039a5a28c68d.png",
     "static/media/fondoLogin.jpg": "/proy163/static/media/fondoLogin.4a84cea587e6f9fbbd69.jpg",
+    "static/media/inscripciones.png": "/proy163/static/media/inscripciones.6feebfc97692d3abc263.png",
+    "static/media/documentos.png": "/proy163/static/media/documentos.28e75db04ef09d88b897.png",
     "index.html": "/proy163/index.html",
     "main.e6c13ad2.css.map": "/proy163/static/css/main.e6c13ad2.css.map",
-    "main.b912c7ae.js.map": "/proy163/static/js/main.b912c7ae.js.map",
+    "main.57939908.js.map": "/proy163/static/js/main.57939908.js.map",
     "488.7a34e2c9.chunk.js.map": "/proy163/static/js/488.7a34e2c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b912c7ae.js"
+    "static/js/main.57939908.js"
   ]
 }

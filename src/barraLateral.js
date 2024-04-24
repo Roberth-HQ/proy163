@@ -10,7 +10,8 @@ const BarraLateral = ({ backgroundColor, borderColor, buttonColor }) => {
         { id: 1, name: 'Informacion del usuario', url: usuario },
         { id: 2, name: 'Inscripciones', url: inscripciones },
         { id: 3, name: 'Calificaciones', url: calificaciones },
-        { id: 4, name: 'Documentos', url: documentos }
+        { id: 4, name: 'Documentos', url: documentos },
+        { id: 5, name: 'Ver Horarios', url: documentos }
     ];
 
     const [content, setContent] = useState(''); // Estado para controlar el contenido

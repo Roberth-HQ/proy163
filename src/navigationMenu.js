@@ -1,15 +1,18 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+
 
 const NavigationMenu = ({ backgroundColor, borderColor, buttonColor, buttons }) => {
     const [showOptions, setShowOptions] = useState(false);
+    const navigate = useNavigate(); // Agrega esta línea para obtener la función de navegación
 
     const toggleOptions = () => {
         setShowOptions(!showOptions);
     };
 
     const handleLogout = () => {
-        // Aquí puedes agregar la lógica para cerrar sesión
-        console.log("Cerrar sesión");
+        // Redirigir al usuario al formulario de inicio de sesión
+        navigate('/login');
     };
 
     const handleSendMessage = () => {

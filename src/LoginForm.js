@@ -85,7 +85,7 @@ const LoginForm = () => {
             </div>
             <div style={{ color: 'white', textAlign: 'center', marginTop: '20px' }}>
                 <p>Sistema de control académico</p>
-                <p>Sistema para colegio McLovin tiene derechos de propiedad intelectual con la tecnología utilizada en el desarrollo de software, por lo que toda copia será sancionada</p>
+                <p>Sistema para colegio R.E.I.R.E. tiene derechos de propiedad intelectual con la tecnología utilizada en el desarrollo de software, por lo que toda copia será sancionada</p>
             </div>
         </div>
     );
